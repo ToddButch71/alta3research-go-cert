@@ -1,8 +1,9 @@
 # alta3research-go-cert
 Alta3 Certification Code.
 * Objective:
-** Rank 5 photos from favorite, to least photo in the link
-
+- Rank 5 photos from favorite, to least photo in the link
+- Redirect to my photo website
+- link 5 photo links from my photo site each with a numerical value
 
 ## Getting Started
 
@@ -17,8 +18,8 @@ What things are needed to install the software and how to install them. For now,
 
 ## Built With
 
-* [Python](https://www.python.org/) - The coding language used
+* [GoLang](https://golang.org/) - The coding language used
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **Todd Butcher** - [YourWebsite](https://velobrunphoto.com/prints/)
